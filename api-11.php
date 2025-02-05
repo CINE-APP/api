@@ -92,7 +92,7 @@ Si actualizamos, modificamos o realizamos algún cambio en este documento, esos 
       "url_dark": "https://aappi.xyz/categorias/"
     },
     {
-      "name": "LISTAS M3U",
+      "name": "LISTAS M3U.",
       "type": "url",
       "icon": "https://aappi.xyz/categorias/images/home.png",
       "url": "https://aappi.xyz/categorias/listas.php",
