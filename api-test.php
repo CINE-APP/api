@@ -142,6 +142,13 @@ Si actualizamos, modificamos o realizamos algún cambio en este documento, esos 
       "icon": "https://aappi.xyz/categorias/images/home.png",
       "url": "https://aappi.xyz/categorias/apps de adultos.php",
       "url_dark": "https://aappi.xyz/categorias/apps de adultos.php"
+    },
+    {
+      "name": "H",
+      "type": "url",
+      "icon": "https://aappi.xyz/categorias/images/black_home.png",
+      "url": "https://apkdescargas.com",
+      "url_dark": "https://apkdescargas.com/"
     }
   ],
   "ads": {
