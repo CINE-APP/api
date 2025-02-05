@@ -141,7 +141,7 @@ Si actualizamos, modificamos o realizamos algún cambio en este documento, esos 
       "url_dark": "https://aappi.xyz/categorias/apps de adultos.php"
     },
     {
-      "name": "H",
+      "name": "OPCIÓN 2",
       "type": "url",
       "icon": "https://aappi.xyz/categorias/images/black_home.png",
       "url": "https://apkdescargas.com",
