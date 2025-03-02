@@ -85,63 +85,7 @@ Si actualizamos, modificamos o realizamos algún cambio en este documento, esos 
   },
     "menus": [
     {
-      "name": "apkdescargas.com",
-      "type": "url",
-      "icon": "https://aappi.xyz/categorias/images/black_home.png",
-      "url": "https://aappi.xyz/categorias/",
-      "url_dark": "https://aappi.xyz/categorias/"
-    },
-    {
-      "name": "LISTAS M3U",
-      "type": "url",
-      "icon": "https://aappi.xyz/categorias/images/home.png",
-      "url": "https://aappi.xyz/categorias/listas.php",
-      "url_dark": "https://aappi.xyz/categorias/listas.php"
-    },
-    {
-      "name": "TV SERIES Y PELICULAS",
-      "type": "url",
-      "icon": "https://aappi.xyz/categorias/images/home.png",
-      "url": "https://aappi.xyz/categorias/tv series y peliculas.php",
-      "url_dark": "https://aappi.xyz/categorias/tv series y peliculas.php"
-    },
-    {
-      "name": "APPS DEPORTIVAS",
-      "type": "url",
-      "icon": "https://aappi.xyz/categorias/images/home.png",
-      "url": "https://aappi.xyz/categorias/futbol.php",
-      "url_dark": "https://aappi.xyz/categorias/futbol.php"
-    },
-    {
-      "name": "ANIMES",
-      "type": "url",
-      "icon": "https://aappi.xyz/categorias/images/home.png",
-      "url": "https://aappi.xyz/categorias/animes.php",
-      "url_dark": "https://aappi.xyz/categorias/animes.php"
-    },
-    {
-      "name": "MAS APLICACIONES",
-      "type": "url",
-      "icon": "https://aappi.xyz/categorias/images/home.png",
-      "url": "https://aappi.xyz/categorias/mas aplicaciones.php",
-      "url_dark": "https://aappi.xyz/categorias/mas aplicaciones.php"
-    },
-    {
-      "name": "JUEGOS",
-      "type": "url",
-      "icon": "https://aappi.xyz/categorias/images/home.png",
-      "url": "https://aappi.xyz/categorias/juegos.php",
-      "url_dark": "https://aappi.xyz/categorias/juegos.php"
-    },
-    {
-      "name": "APPS DE ADULTOS",
-      "type": "url",
-      "icon": "https://aappi.xyz/categorias/images/home.png",
-      "url": "https://aappi.xyz/categorias/apps de adultos.php",
-      "url_dark": "https://aappi.xyz/categorias/apps de adultos.php"
-    },
-    {
-      "name": "ESTAS USANDO LA OPCIÓN 2",
+      "name": "NUEVA ACTUALIZACIÓN",
       "type": "url",
       "icon": "https://aappi.xyz/categorias/images/black_home.png",
       "url": "https://apkdescargas.com",
